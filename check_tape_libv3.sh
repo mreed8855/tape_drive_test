@@ -1,4 +1,5 @@
 #!/bin/bash
+# Test script
 # this is a simple script that executes a few commands.  
 # this script assumes that mt-st is isntalled
 #sudo apt-cache policy mt-st
